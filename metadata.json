@@ -1,0 +1,6 @@
+{
+  "name": "DarkWatch Intelligence",
+  "description": "Discover. Monitor. Protect. Threat Intelligence and Data Breach Exposure Monitoring Platform for authorized emails and domains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
